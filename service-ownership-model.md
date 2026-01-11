@@ -35,7 +35,7 @@ Before a service is classified as "Squad Owned," it must meet these elite engine
 
 ### 🏗️ Architectural & Quality Gates
 * **RFC Alignment:** Major changes must have an approved RFC to ensure alignment with the 3-5 year strategy.
-* **The Test Pyramid:** Maintain a healthy balance—85%+ Unit coverage on new logic, 100% API coverage, and ~92% E2E coverage for critical journeys.
+* **The Test Pyramid:** Maintain a healthy balance-85%+ Unit coverage on new logic, 100% API coverage, and ~92% E2E coverage for critical journeys.
 * **AI-Driven Shift-Left:** All PRs must pass automated AI-assisted quality scans to reduce staging defects by ~50%.
 * **Exploratory Testing:** Squads must conduct exploratory testing sessions to complement automation for high-risk features.
 
