@@ -1,6 +1,6 @@
 # Service Ownership Charter
 
-> **"You Build It, You Own It"**
+> **"You Build It, You Own It, You Love It"**
 
 ---
 
@@ -108,10 +108,10 @@ The squad prioritizes **"Prevention-Focused"** tasks to ensure the same issue ne
 
 ## Principles
 
-1. **Autonomy with Accountability** — Squads have freedom to make decisions but own the outcomes
-2. **Shift Left** — Catch issues early through automated quality gates
-3. **Blameless Culture** — Focus on systems improvement, not individual fault
-4. **Continuous Improvement** — Every incident is a learning opportunity
+1. **Autonomy with Accountability** - Squads have freedom to make decisions but own the outcomes
+2. **Shift Left** - Catch issues early through automated quality gates
+3. **Blameless Culture** - Focus on systems improvement, not individual fault
+4. **Continuous Improvement** - Every incident is a learning opportunity
 
 ---
 
