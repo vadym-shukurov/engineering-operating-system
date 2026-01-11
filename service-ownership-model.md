@@ -41,11 +41,12 @@ Before a service is classified as "Squad Owned," it must meet these elite engine
 
 
 
-[Image of the software testing pyramid]
+<img width="2048" height="1639" alt="image" src="https://github.com/user-attachments/assets/2872b3cc-5258-4bcf-b739-2a0adf554037" />
+
 
 
 ### 📈 Operational Excellence (DORA Metrics)
-* **Velocity:** Small-batch delivery to support a predictable ~3-week (or faster) release heartbeat.
+* **Velocity:** Small-batch delivery to support a predictable ~2-week (or faster) release heartbeat.
 * **Reliability:** Maintain zero critical security vulnerabilities and code duplication below 1.7%.
 * **Observability:** Active monitoring for MTTR, Error Budgets, and Change Failure Rates.
 
